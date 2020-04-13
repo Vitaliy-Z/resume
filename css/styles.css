@@ -1,0 +1,119 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  background: #f5f7fa;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgb(66, 65, 65);
+}
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.sidebar {
+  background: #030441;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.my-foto {
+  width: 370px;
+}
+.aside-container {
+  margin-top: 40px;
+  margin-left: 30px;
+  margin-right: 17px;
+}
+.aside-title {
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #f8ee59;
+  margin-bottom: 20px;
+}
+ .aside-link {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #eaebec;
+  margin-left: 10px;
+}
+.aside-link-type {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(255, 208, 0);
+  margin-right: 10px;
+  line-height: 40px;
+  margin-left: 17px;
+}
+.about-me-container {
+  margin-left: 70px;
+  margin-top: 100px;
+  margin-right: 20px;
+
+}
+.prof {
+  font-size: 23px;
+  font-weight: 700;
+  color: #0a0a00;
+  margin-bottom: 30px;
+}
+.name {
+  font-size: 55px;
+  font-weight: 700;
+  font-style: oblique;
+  font-weight: bolder;
+  color: #07024b;
+  margin-bottom: 20px;
+  }
+.about-me-title {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #6b3b04;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.containers-about.me {
+  margin-top: 25px;
+}
+.about-me-link-info {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 24px;
+  color: black;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.about-me-link {
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 24px;
+  color: black;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+.about-me-link-type {
+  font-size: 20px;
+  font-weight: 700;
+  margin-right: 10px;
+  line-height: 40px;
+  margin-left: 20px;
+}
+.about-me-period {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(49, 48, 48);
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
